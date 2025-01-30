@@ -69,7 +69,6 @@ const App = () => {
   const loadTrendingMovies = async () => {
     try {
       const trending = await getTrendingMovies();
-
       setTrendingMovies(trending);
     } catch (error) {
       console.error(`Error fetching trending movies: ${error.message}`);

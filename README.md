@@ -5,7 +5,7 @@ Movie Explorer is a web application that allows users to browse all movies, sear
 ## Features 🚀
 - 🔍 **Search Movies**: Find your favorite movies instantly.
 - 📈 **Trending Movies**: Discover the latest trending movies.
-- 🎮 **All Movies**: Browse through an extensive collection of movies.
+- 🎬 **All Movies**: Browse through an extensive collection of movies.
 - 🌟 **Responsive Design**: Fully optimized for all devices using TailwindCSS.
 
 ## Tech Stack 🛠

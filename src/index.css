@@ -20,6 +20,10 @@
   --background-image-hero-pattern: url("/hero-bg.png");
 }
 
+html, body {
+  @apply overflow-x-hidden;
+}
+
 @layer base {
   body {
     font-family: "DM Sans", serif;

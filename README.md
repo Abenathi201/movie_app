@@ -1,4 +1,4 @@
-# Movie Explorer 🎮
+# Movie Explorer 🎬
 
 Movie Explorer is a web application that allows users to browse all movies, search for specific titles, and explore trending movies. Built with modern technologies like React, Vite, TailwindCSS, and AppWrite, this app provides a seamless and responsive user experience.
 
